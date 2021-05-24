@@ -1,0 +1,84 @@
+body {
+  font-family: sans-serif;
+  background-color:	#09a9be;
+}
+
+header {
+  background-color:#a10fe6;
+  padding: 40px 0px 40px 25px;
+}
+
+.link-header {
+  background-color:#06bcd4d3;
+  padding: 5px 10px 5px 10px;
+  font-size: 36px;
+  text-decoration: none;
+}
+
+nav {
+  padding: 35px 40px 0px 40px;
+}
+
+.link-nav {
+   background-color:#490894;
+  padding: 5px 5px 5px 5px;
+border: 5px double #5d09b1;
+  color: rgb(7, 7, 7);
+  font-size: 24px;
+  margin-right: 35px;
+text-decoration: none;
+  
+}
+
+h1 {
+  font-family: segoe script;
+  text-align: center;
+  color:#63019cc9;
+  font-size: 96px;
+}
+
+p {
+  font-size: 24px;
+  margin-left: 60px;
+}
+
+ul {
+    color: #FFFFFF;
+    font-family:tempus sans itc;
+  font-size: 24px;
+  list-style: url("https://www.pngitem.com/pimgs/m/10-106090_checkbox-check-mark-mark-check-tick-yes-approve.png width="600px" height="400px");
+  margin-left: 60px;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+ol {
+  font-size: 24px;
+  margin-left: 60px;
+}
+
+.text-big {
+  font-size: 48px;
+  margin-left: 60px;
+}
+  
+.link-text {
+  color: blek;
+  text-decoration: none;
+  border-bottom: 2px solid rgb(7, 158, 196);
+}
+
+h2 {
+  color:blek ;
+  font-size: 64px;
+}
+
+footer {
+  padding: 65px 0px 80px 80px;
+}
+
+.social {
+  margin-right: 60px;
+}
